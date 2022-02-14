@@ -3,13 +3,13 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKLE-AR/jmthon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKLE-AR/darkle)
 
 ## شكـرا لكـم 
 
 
 ## الــمــطــور 
 
-[jmthon source](https://t.me/M_2_2)
+[darkle source](https://t.me/M_2_2)
 
 [Drkle](https://t.me/iDarkle)
